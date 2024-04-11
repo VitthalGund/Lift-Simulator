@@ -19,7 +19,7 @@ Lift Simulator is a Python program that simulates the operation of lifts in a bu
 2. **Navigate to the project directory:**
 
     ```bash
-    cd lift-simulator
+    cd Lift-Simulator-main\Lift-Simulator-main
     ```
 
 3. **Run the program:**
